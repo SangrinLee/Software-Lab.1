@@ -1,0 +1,10 @@
+1 Ace 440
+2 com1 220
+3 star 210
+4 p2 200
+5 p1 120
+6 lee 45
+7 com2 40
+8 comeputer 30
+9 com3 20
+10 com4 20
